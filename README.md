@@ -1,9 +1,9 @@
 # NASA Astronomy Pictures of the Day
-*This mobile responsive project incorporating the **NASA API** to get random astronomy pictures of the day.
-*The results are formatted into cards with image title, description, date and copyright information.
-*Using *localStorage*, users can also add images to their favorites page.
+* This mobile responsive project incorporating the **NASA API** to get random astronomy pictures of the day.
+* The results are formatted into cards with image title, description, date and copyright information.
+* Using *localStorage*, users can also add images to their favorites page.
 
-*To improve performance, images will be "lazy" loaded when it comes close to being scroll to.
+* To improve performance, images will be "lazy" loaded when it comes close to being scroll to.
 
 ## Credit for API from : * https://api.nasa.gov/*
 
