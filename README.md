@@ -16,6 +16,6 @@
 5. A common use of JSON is to exchange data to/from a web server. When sending data to a web server, the data has to be a string. Convert a JavaScript object into a string with *JSON.stringify()*.
 6. (@Ln 28)The *Object.values()* returns an **array** which contains the given object's own enumerable property values, **in the same order** as that provided by a *for...in*  loop.
 7. Apply *Window.scrollTo()* prior to loading will helps append the new contents at lower section of the page.
-8. **Declarative** programming focuses on what the program should accomplish while **Imperative** programming focuses on how the program should achieve the result. ==> This is a stepping-stone concept fpr leanring React. :+1: :tada:
+8. **Declarative** programming focuses on what the program should accomplish while **Imperative** programming focuses on how the program should achieve the result. ==> This is a stepping-stone concept for leanring React. :+1: :tada:
 
 
